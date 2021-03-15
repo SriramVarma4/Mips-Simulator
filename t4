@@ -1,0 +1,4 @@
+addi $t2, $t2, 1
+addi  $t3, $t3, 2
+sw $t3, $t2
+lw $t1, $t2
